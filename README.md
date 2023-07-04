@@ -1,1 +1,1 @@
-# AudioMorph: Dynamic Audio Control using FSRs
+# AudioMorph: Dynamic Audio Control using FSR

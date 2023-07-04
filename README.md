@@ -1,1 +1,1 @@
-# Smart_Headphone_Stand-IOT
+# AudioMorph: Dynamic Audio Control using FSRs
